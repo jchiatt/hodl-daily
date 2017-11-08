@@ -18,21 +18,26 @@ As I've been learning about cryptocurrency, I've begun to understand what curren
 
 For those of you, like me, who mostly slept in your economics class (which may be the reason I haven't understood this definition until now), a _means of exchange_ is simply something two parties agree to accept from each other in exchange for good and services.
 
-Here's the important part: both parties have to **agree** that the means of their exchange [of goods and services] is valuable for it to be considered a currency. Or at the minimum, the person giving goods and services has to agree that it's valuable and that they can use it in with others when they are ready to buy goods and services.
+Here's the important part: **both parties have to agree** that the means of their exchange [of goods and services] is valuable for it to be considered a currency. Or at the minimum, the person giving goods and services has to agree that it's valuable and that they can use it as a means of exchange with others when they are ready to buy goods and services.
 
 It doesn't have to be government-issued.
+
 It doesn't have to be a piece of paper with a historical figure on it.
+
 It doesn't even have to be a piece of paper.
+
 It can be dirt as long as everyone agrees to accept it in exchange for goods and services.
 
 ## Why do we mostly use paper and metal coins?
 Short answer: It's much easier to carry around and has more transactional utility than any one single resource.
 
-Long answer: Back in the days of bartering, I may own an apple orchard. When I need food or clothes, I go into town to whoever is selling food and clothes. I have to lug around a ton of apples (because the exchange rate of 1 pair of jeans may be 100 apples), and when I find a pair of jeans I want, I speak with the owner of those jeans and try to make a trade for my apples.
+Long answer: Back in the days of bartering, I may own an apple orchard. When I need a new pair of jeans, I go into town to whoever is selling jeans. I have to lug around a ton of apples (because the exchange rate of 1 pair of jeans may be 100 apples), and when I find the pair of jeans I want, I speak with the owner of those jeans and try to make a trade for my apples.
 
-Here's the problem though. The jeans merchant may already have hundreds of apples from the other orchard owners across town, so at the moment he really doesn't value what I have to offer (apples). I either have to **A)** make an insane offer that will be valuable for him later (like maybe I offer him 300 apples in exchange for the jeans) or **B)** offer him something else in exchange for the jeans.
+Here's the problem though. The jeans merchant may already have hundreds of apples from those other orchard owners across town, so at the moment he really doesn't value what I have to offer (apples). I either have to **A)** make an insane offer that he thinks will be valuable for him later (like maybe I offer him 300 apples in exchange for the jeans) or **B)** offer him something else in exchange for the jeans.
 
-Option B is pretty difficult because I don't have an abundance of any other resource besides the apples I produce. Option A is possible but I'll have to run home and get even more apples. Plus, this would mean I'm giving up a larger amount of my apply supply that I may have been able to exchange for other good and services at a more reasonable rate (I just happened to really need new jeans today).
+Option B is pretty difficult because I don't have an abundance of any other resource besides the apples I produce. After all, I'm an orchard owner, so apples are the primary resouce I have an abundance of. 
+
+Option A is possible but I'll have to run home and get even more apples. Plus, this would mean I'm giving up a larger amount of my apple supply that I may have been able to exchange for other good and services at a more reasonable rate (I just happened to really need new jeans today).
 
 Maybe now you see why this isn't feasible. Carrying around my resource (in this case, apples) as a medium of exchange is very inconvenient, and using my resource as a medium of exchange is difficult when the other party doesn't value my resource enough to exchange their goods or services for it at a fair rate.
 
@@ -51,4 +56,4 @@ That my friends, is currency.
 
 Now that we understand currency, soon we'll cover _cryptocurrency_.
 
-As a nice exercise beforehand, comment below and tell me why you think cryptocurrency would be an improvement on existing currency. Even if you don't really know what cryptocurrency is yet, just by knowing that it's purely digital, tell me why a purely digital means of exchange is better than a piece of paper.
+As a nice exercise beforehand, comment below and tell me why you think cryptocurrency would be an improvement on existing currency. Even if you don't really know what cryptocurrency is yet, just by knowing that it's purely digital, tell me why a purely digital currency is better than a piece of paper as a means of exchange.
