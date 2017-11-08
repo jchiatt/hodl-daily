@@ -35,7 +35,7 @@ Long answer: Back in the days of bartering, I may own an apple orchard. When I n
 
 Here's the problem though. The jeans merchant may already have hundreds of apples from those other orchard owners across town, so at the moment he really doesn't value what I have to offer (apples). I either have to **A)** make an insane offer that he thinks will be valuable for him later (like maybe I offer him 300 apples in exchange for the jeans) or **B)** offer him something else in exchange for the jeans.
 
-Option B is pretty difficult because I don't have an abundance of any other resource besides the apples I produce. After all, I'm an orchard owner, so apples are the primary resouce I have an abundance of. 
+Option B is pretty difficult because I don't have an abundance of any other resource besides the apples I produce. After all, I'm an orchard owner, so apples are the primary resource I have an abundance of. 
 
 Option A is possible but I'll have to run home and get even more apples. Plus, this would mean I'm giving up a larger amount of my apple supply that I may have been able to exchange for other good and services at a more reasonable rate (I just happened to really need new jeans today).
 
