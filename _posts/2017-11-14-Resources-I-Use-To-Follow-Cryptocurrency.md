@@ -5,7 +5,7 @@ title: Resources I Use To Follow Cryptocurrency
 
 Today, I wanted to share some links to resources I've been using to learn about cryptocurrency.
 
-Obviously, I'll continue to discover more valueable resources of information as I keep learning, so I'll probably make a Resources tab on the site soon.
+Obviously, I'll continue to discover more valuable resources of information as I keep learning, so I'll probably make a Resources tab on the site soon.
 
 ## [Reddit](https://reddit.com)
 If you aren't familiar, Reddit is a social site where people can create topic-based discussion sections of the site called Subreddits. Users can subscribe to these subreddits in order to engage in discussion about the topics they are interested in. Each subreddit is made up of what are called threads.
