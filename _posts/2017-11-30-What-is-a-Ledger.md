@@ -26,15 +26,15 @@ Payee (or Credit Amount if you made a deposit of some kind)
 Given this, here's three transactions in a pretend ledger:
 
 ```
-11/21/2017 Starting Balance: $12,575.25
+11/30/2017 Starting Balance: $12,575.25
 
-1.  11/21/2017   -$15.75    Pizza Shack
+1.  11/30/2017   -$15.75    Pizza Shack
 New Balance: $12,559.50
 
-2.  11/21/2017   +$500      Payroll Deposit
+2.  11/30/2017   +$500      Payroll Deposit
 New Balance: $13,059.50
 
-3.  11/21/2017   -$83.63    Pizza Palooza
+3.  11/30/2017   -$83.63    Pizza Palooza
 New Balance: $12,975.87
 ```
 
@@ -49,18 +49,18 @@ J.C.: "Yeah dude, definitely. Coming your way."
 I then call my bank (or hop online) and transfer funds to Thad's account. This will create a new transaction entry in my ledger, like so:
 
 ```
-11/21/2017 Starting Balance: $12,575.25
+11/30/2017 Starting Balance: $12,575.25
 
-1.  11/21/2017    -$15.75     Pizza Shack
+1.  11/30/2017    -$15.75     Pizza Shack
 New Balance: $12,559.50
 
-2.  11/21/2017    +$500       Payroll Deposit
+2.  11/30/2017    +$500       Payroll Deposit
 New Balance: $13,059.50
 
-3.  11/21/2017    -$83.63     Pizza Palooza
+3.  11/30/2017    -$83.63     Pizza Palooza
 New Balance: $12,975.87
 
-4. 11/21/2017     -$5,000     Thaddeus Daniels
+4. 11/30/2017     -$5,000     Thaddeus Daniels
 New Balance: $7,975.87 
 ```
 
